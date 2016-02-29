@@ -1,6 +1,5 @@
 Unoffical-A-ptch
-================
-wwq
+33333
 Created by HackMew 
 
 Can now patch GB/GBC games!
